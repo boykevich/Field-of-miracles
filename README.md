@@ -58,7 +58,6 @@ You guessed, congratulation!
 
 - The word list is static but can easily be modified.
 - No external dependencies required.
-- Perfect for beginner Python projects!
 
 ## 📄 License
 
